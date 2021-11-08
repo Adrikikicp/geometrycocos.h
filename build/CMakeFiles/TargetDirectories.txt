@@ -1,0 +1,2 @@
+D:/Adrikikicp-SDK/build/CMakeFiles/ALL_BUILD.dir
+D:/Adrikikicp-SDK/build/CMakeFiles/ZERO_CHECK.dir

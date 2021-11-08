@@ -6,12 +6,17 @@
 			[
 				{
 					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20.0"
+					},
 					"projectIndex" : 0,
 					"source" : ".",
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -27,7 +32,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -36,7 +42,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Debug-a6b161d3020aa24f2365.json",
+					"jsonFile" : "target-ALL_BUILD-Debug-5c23f331c520e73e427d.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
@@ -46,6 +52,13 @@
 					"jsonFile" : "target-ZERO_CHECK-Debug-2286b9ddfe218a2c47fc.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cocos2d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cocos2d-Debug-3fe0ae2d80612c1de59a.json",
+					"name" : "cocos2d",
+					"projectIndex" : 0
 				}
 			]
 		},
@@ -54,12 +67,17 @@
 			[
 				{
 					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20.0"
+					},
 					"projectIndex" : 0,
 					"source" : ".",
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -75,7 +93,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -84,7 +103,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Release-a6b161d3020aa24f2365.json",
+					"jsonFile" : "target-ALL_BUILD-Release-5c23f331c520e73e427d.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
@@ -94,6 +113,13 @@
 					"jsonFile" : "target-ZERO_CHECK-Release-2286b9ddfe218a2c47fc.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cocos2d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cocos2d-Release-02183529e305c4db27da.json",
+					"name" : "cocos2d",
+					"projectIndex" : 0
 				}
 			]
 		},
@@ -102,12 +128,17 @@
 			[
 				{
 					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20.0"
+					},
 					"projectIndex" : 0,
 					"source" : ".",
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -123,7 +154,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -132,7 +164,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-MinSizeRel-a6b161d3020aa24f2365.json",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-5c23f331c520e73e427d.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
@@ -142,6 +174,13 @@
 					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-2286b9ddfe218a2c47fc.json",
 					"name" : "ZERO_CHECK",
 					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cocos2d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cocos2d-MinSizeRel-974cd31d36033533924a.json",
+					"name" : "cocos2d",
+					"projectIndex" : 0
 				}
 			]
 		},
@@ -150,12 +189,17 @@
 			[
 				{
 					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20.0"
+					},
 					"projectIndex" : 0,
 					"source" : ".",
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -171,7 +215,8 @@
 					"targetIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					]
 				}
 			],
@@ -180,7 +225,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-a6b161d3020aa24f2365.json",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-5c23f331c520e73e427d.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
@@ -189,6 +234,13 @@
 					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-2286b9ddfe218a2c47fc.json",
 					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cocos2d::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cocos2d-RelWithDebInfo-48b736d670be4eb6e021.json",
+					"name" : "cocos2d",
 					"projectIndex" : 0
 				}
 			]
